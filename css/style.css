@@ -911,11 +911,11 @@ pre {
     -ms-flex: 0 0 58.33333%;
     flex: 0 0 58.33333%;
     max-width: 58.33333%; }
-  .col-md-8 {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 66.66667%;
-    flex: 0 0 66.66667%;
-    max-width: 5.66667%; }
+    .col-md-8 {
+      -webkit-box-flex: 0;
+      -ms-flex: 0 0 66.66667%;
+      flex: 0 0 66.66667%;
+      max-width: 66.66667%; }
   .col-md-9 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 75%;
@@ -9459,7 +9459,7 @@ textarea.form-control {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background: #b1b493;
+    background: #198f37;
     margin: 0 auto;
     margin-bottom: 20px; }
     .dbox .icon span {

@@ -2064,7 +2064,7 @@ textarea.form-control {
       -webkit-transition: none;
       -o-transition: none;
       transition: none; } }
-      .loader_bg {
+      /* .loader_bg {
         position: fixed;
         z-index: 9999999;
         background: #fff;
@@ -2085,7 +2085,7 @@ textarea.form-control {
    
    .loader img {
         width: 280px;
-   }
+   } */
    
   .btn:hover {
     color: #212529;
